@@ -8,6 +8,6 @@ This table shows the most imortant informmation about the data we analyszed we t
 
 
 
-
+.the mailn line 
 
 the other files are also explaining the main contents 
